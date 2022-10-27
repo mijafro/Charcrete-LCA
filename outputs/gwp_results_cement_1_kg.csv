@@ -1,99 +1,99 @@
 ,activity,location,GWP
-0,"market for cement, portland fly ash cement 21-35%",RoW,0.6335577747319842
-1,"market for cement, blast furnace slag 35-70%",RoW,0.4450834058147611
-2,"market for cement, blast furnace slag 25-70%",RoW,0.6048033424162594
-3,"market for cement, alternative constituents 21-35%",RoW,0.6869363836166641
-4,"market for cement, pozzolana and fly ash 5-15%",RoW,0.8484320252748236
-5,"market for cement, blast furnace slag 40-70%",RoW,0.5801630702702669
-6,"market for cement, unspecified",CA-QC,0.8464022545093931
-7,"market for cement, limestone 21-35%",PE,0.6753976562159174
-8,"cement, all types to generic market for cement, unspecified",IN,0.7299413224691664
-9,"market for cement, unspecified",Europe without Switzerland,0.7885532092602151
-10,"market for cement, pozzolana and fly ash 15-40%",RoW,0.6915545500501875
-11,"market for cement, limestone 21-35%",RoW,0.7580661669058502
-12,"market for cement, blast furnace slag 5-25%",US,0.838300856708714
-13,"market for cement, pozzolana and fly ash 15-50%",BR,0.5958458840735928
-14,"market for cement, blast furnace slag 70-100%",RoW,0.34196190937123727
-15,"market for cement, blast furnace slag 81-95%",CH,0.19191962872763885
-16,"market for cement, blast furnace slag 66-80%",Europe without Switzerland,0.37405029835899944
-17,"market for cement, blast furnace slag 66-80%",CH,0.29292979866919816
-18,"market for cement, blast furnace slag 36-65%",RoW,0.5888658105839674
-19,"market for cement, blast furnace slag 6-20%",RoW,0.7420778517701339
-20,"market for cement, limestone 6-20%",RoW,0.7650269827935408
-21,"market for cement, unspecified",ZA,0.8819475317170993
-22,"market for cement, alternative constituents 6-20%",Europe without Switzerland,0.8067226435672419
-23,"market for cement, limestone 6-10%",RoW,0.8554952732750324
-24,"market for cement, Portland",IN,0.9250567940275355
-25,"market for cement, pozzolana and fly ash 25-35%",RoW,0.6598575174215835
-26,"market for cement, blast furnace slag 6-34%",RoW,0.6771038579058621
-27,"market for cement, alternative constituents 21-35%",Europe without Switzerland,0.6771584928672294
-28,"market for cement, limestone 6-10%",BR,0.842635934431113
-29,"market for cement, blast furnace slag 36-65%",ZA,0.6722977628390695
-30,"market for cement, Portland",BR,0.8697025291238393
-31,"cement, all types to generic market for cement, unspecified",PE,0.7716359638359032
-32,"market for cement, Portland",Europe without Switzerland,0.8750387646529382
-33,"market for cement, Portland",RoW,0.8657748040965729
-34,"market for cement, Portland",ZA,1.0252653381457444
-35,"market for cement, pozzolana and fly ash 6-14%",RoW,0.7526860540060336
-36,"market for cement, alternative constituents 45%",RoW,0.6101557157446305
-37,"cement, all types to generic market for cement, unspecified",CH,0.6644843854193141
-38,"market for cement, blast furnace slag 31-50% and 31-50% other alternative constituents",RoW,0.4598033376552571
-39,"market for cement, alternative constituents 45%",CO,0.5944276668127271
-40,"market for cement, pozzolana and fly ash 36-55%",CH,0.42940635147843614
-41,"market for cement, pozzolana and fly ash 25-35%",IN,0.6573350198372706
-42,"market for cement, portland fly ash cement 6-20%",ZA,0.8374388505224014
-43,"market for cement, blast furnace slag 25-70%",US,0.5992542856715373
-44,"market for cement, blast furnace slag 66-80%",RoW,0.4432413398979793
-45,"market for cement, unspecified",CO,0.6377592420114632
-46,"cement, all types to generic market for cement, unspecified",ZA,0.8819475317170989
-47,"market for cement, alternative constituents 6-20%",RoW,0.8108933391739127
-48,"cement, all types to generic market for cement, unspecified",CA-QC,0.8464022545093925
-49,"market for cement, blast furnace slag 18-30% and 18-30% other alternative constituents",RoW,0.5550526902536641
-50,"market for cement, pozzolana and fly ash 6-14%",BR,0.739440758597385
-51,"market for cement, blast furnace slag 18-30% and 18-30% other alternative constituents",CH,0.43686687837239535
-52,"market for cement, blast furnace slag 70-100%",US,0.323795674772886
-53,"market for cement, alternative constituents 6-20%",CH,0.6486038433131182
-54,"market for cement, blast furnace slag 6-34%",BR,0.6631938006985257
-55,"cement, all types to generic market for cement, unspecified",RoW,0.7803980671966152
-56,"market for cement, blast furnace slag 81-95%",RoW,0.3440105618549892
-57,"market for cement, blast furnace slag 18-30% and 18-30% other alternative constituents",Europe without Switzerland,0.5286616401647194
-58,"cement, all types to generic market for cement, unspecified",BR,0.6851997936182886
-59,"market for cement, unspecified",CH,0.6824511049889654
-60,"market for cement, alternative constituents 6-20%",CA-QC,0.7781671624317449
-61,"market for cement, unspecified",IN,0.7299413224691667
-62,"market for cement, portland fly ash cement 6-20%",RoW,0.7207428713113059
-63,"market for cement, pozzolana and fly ash 5-15%",US,0.8574381730777295
-64,"market for cement, Portland",CA-QC,0.858443711811177
-65,"market for cement, unspecified",US,0.9005719362567963
-66,"market for cement, pozzolana and fly ash 36-55%",RoW,0.600784482090153
-67,"market for cement, blast furnace slag 5-25%",RoW,0.8329646532951169
-68,"market for cement, unspecified",BR,0.6851997936182878
-69,"market for cement, Portland",US,0.9032893541615206
-70,"market for cement, pozzolana and fly ash 11-35%",Europe without Switzerland,0.7147839610164648
-71,"market for cement, blast furnace slag 81-95%",Europe without Switzerland,0.26133174656610686
-72,"market for cement, sulphate resistant",BR,0.7409195424998409
-73,"market for cement, Portland",PE,0.9034366612128066
-74,"market for cement, alternative constituents 21-35%",CO,0.7731704091805672
-75,"market for cement, portland fly ash cement 21-35%",ZA,0.7370566417134125
-76,"market for cement, blast furnace slag 31-50% and 31-50% other alternative constituents",Europe without Switzerland,0.4272720061972607
-77,"market for cement, blast furnace slag 35-70%",BR,0.43056846635786533
-78,"market for cement, blast furnace slag 21-35%",ZA,0.8236056575968616
-79,"cement, all types to generic market for cement, unspecified",US,0.900571936256796
-80,"market for cement, pozzolana and fly ash 15-40%",US,0.6980894672064637
-81,"market for cement, blast furnace slag 6-20%",ZA,0.8861409945782837
-82,"market for cement, blast furnace slag 21-35%",RoW,0.6750440196588384
-83,"market for cement, pozzolana and fly ash 11-35%",RoW,0.718875855990534
-84,"market for cement, unspecified",RoW,0.780398067196615
-85,"market for cement, blast furnace slag 36-65%",Europe without Switzerland,0.5419781339979016
-86,"market for cement, pozzolana and fly ash 11-35%",CH,0.6033591470019419
-87,"market for cement, blast furnace slag 40-70%",IN,0.6236810232956274
-88,"market for cement, limestone 6-20%",ZA,0.8881954196694398
-89,"market for cement, blast furnace slag 36-65%",CH,0.4434644174226272
-90,"market for cement, Portland",CH,0.7430079065623812
-91,"cement, all types to generic market for cement, unspecified",Europe without Switzerland,0.7885532092602153
-92,"market for cement, pozzolana and fly ash 36-55%",Europe without Switzerland,0.5151436382845054
-93,"market for cement, blast furnace slag 31-50% and 31-50% other alternative constituents",CH,0.3474119948192296
-94,"market for cement, unspecified",PE,0.7716359638359025
-95,"cement, all types to generic market for cement, unspecified",CO,0.6377592420114638
-96,"market for cement, alternative constituents 21-35%",CH,0.6162542990326754
-97,"market for cement, pozzolana and fly ash 15-50%",RoW,0.6095704246973831
+0,"market for cement, blast furnace slag 31-50% and 31-50% other alternative constituents",Europe without Switzerland,0.4272720061972607
+1,"market for cement, alternative constituents 45%",RoW,0.6101557157446305
+2,"market for cement, pozzolana and fly ash 36-55%",RoW,0.600784482090153
+3,"market for cement, pozzolana and fly ash 6-14%",BR,0.739440758597385
+4,"market for cement, Portland",PE,0.9034366612128066
+5,"market for cement, pozzolana and fly ash 5-15%",RoW,0.8484320252748236
+6,"market for cement, blast furnace slag 70-100%",US,0.323795674772886
+7,"market for cement, alternative constituents 6-20%",CA-QC,0.7781671624317449
+8,"market for cement, blast furnace slag 18-30% and 18-30% other alternative constituents",RoW,0.5550526902536641
+9,"market for cement, limestone 6-20%",RoW,0.7650269827935408
+10,"market for cement, sulphate resistant",BR,0.7409195424998409
+11,"cement, all types to generic market for cement, unspecified",CA-QC,0.8464022545093925
+12,"market for cement, blast furnace slag 66-80%",CH,0.29292979866919816
+13,"market for cement, Portland",IN,0.9250567940275355
+14,"market for cement, unspecified",IN,0.7299413224691667
+15,"cement, all types to generic market for cement, unspecified",CO,0.6377592420114638
+16,"market for cement, alternative constituents 21-35%",CO,0.7731704091805672
+17,"market for cement, Portland",BR,0.8697025291238393
+18,"market for cement, alternative constituents 21-35%",CH,0.6162542990326754
+19,"market for cement, Portland",CA-QC,0.858443711811177
+20,"market for cement, blast furnace slag 31-50% and 31-50% other alternative constituents",RoW,0.4598033376552571
+21,"market for cement, blast furnace slag 35-70%",BR,0.43056846635786533
+22,"market for cement, pozzolana and fly ash 36-55%",Europe without Switzerland,0.5151436382845054
+23,"market for cement, pozzolana and fly ash 5-15%",US,0.8574381730777295
+24,"market for cement, Portland",CH,0.7430079065623812
+25,"cement, all types to generic market for cement, unspecified",PE,0.7716359638359032
+26,"cement, all types to generic market for cement, unspecified",US,0.900571936256796
+27,"market for cement, blast furnace slag 36-65%",CH,0.4434644174226272
+28,"market for cement, pozzolana and fly ash 15-40%",RoW,0.6915545500501875
+29,"market for cement, alternative constituents 45%",CO,0.5944276668127271
+30,"market for cement, blast furnace slag 81-95%",Europe without Switzerland,0.26133174656610686
+31,"market for cement, blast furnace slag 81-95%",RoW,0.3440105618549892
+32,"market for cement, unspecified",ZA,0.8819475317170993
+33,"market for cement, blast furnace slag 18-30% and 18-30% other alternative constituents",CH,0.43686687837239535
+34,"cement, all types to generic market for cement, unspecified",BR,0.6851997936182886
+35,"market for cement, pozzolana and fly ash 15-40%",US,0.6980894672064637
+36,"market for cement, blast furnace slag 66-80%",RoW,0.4432413398979793
+37,"market for cement, blast furnace slag 40-70%",IN,0.6236810232956274
+38,"market for cement, limestone 21-35%",PE,0.6753976562159174
+39,"market for cement, blast furnace slag 66-80%",Europe without Switzerland,0.37405029835899944
+40,"market for cement, blast furnace slag 21-35%",RoW,0.6750440196588384
+41,"market for cement, unspecified",PE,0.7716359638359025
+42,"market for cement, blast furnace slag 25-70%",US,0.5992542856715373
+43,"market for cement, pozzolana and fly ash 15-50%",BR,0.5958458840735928
+44,"market for cement, unspecified",Europe without Switzerland,0.7885532092602151
+45,"market for cement, limestone 21-35%",RoW,0.7580661669058502
+46,"market for cement, limestone 6-10%",BR,0.842635934431113
+47,"market for cement, unspecified",CO,0.6377592420114632
+48,"cement, all types to generic market for cement, unspecified",IN,0.7299413224691664
+49,"cement, all types to generic market for cement, unspecified",Europe without Switzerland,0.7885532092602153
+50,"market for cement, pozzolana and fly ash 15-50%",RoW,0.6095704246973831
+51,"cement, all types to generic market for cement, unspecified",ZA,0.8819475317170989
+52,"market for cement, blast furnace slag 36-65%",Europe without Switzerland,0.5419781339979016
+53,"market for cement, portland fly ash cement 21-35%",RoW,0.6335577747319842
+54,"market for cement, pozzolana and fly ash 25-35%",IN,0.6573350198372706
+55,"market for cement, alternative constituents 21-35%",Europe without Switzerland,0.6771584928672294
+56,"market for cement, Portland",RoW,0.8657748040965729
+57,"market for cement, unspecified",CA-QC,0.8464022545093931
+58,"market for cement, unspecified",BR,0.6851997936182878
+59,"cement, all types to generic market for cement, unspecified",RoW,0.7803980671966152
+60,"market for cement, portland fly ash cement 6-20%",RoW,0.7207428713113059
+61,"market for cement, portland fly ash cement 6-20%",ZA,0.8374388505224014
+62,"market for cement, portland fly ash cement 21-35%",ZA,0.7370566417134125
+63,"market for cement, blast furnace slag 70-100%",RoW,0.34196190937123727
+64,"market for cement, alternative constituents 6-20%",CH,0.6486038433131182
+65,"market for cement, blast furnace slag 5-25%",US,0.838300856708714
+66,"market for cement, Portland",Europe without Switzerland,0.8750387646529382
+67,"market for cement, pozzolana and fly ash 25-35%",RoW,0.6598575174215835
+68,"market for cement, Portland",ZA,1.0252653381457444
+69,"market for cement, blast furnace slag 6-34%",RoW,0.6771038579058621
+70,"market for cement, blast furnace slag 21-35%",ZA,0.8236056575968616
+71,"market for cement, blast furnace slag 5-25%",RoW,0.8329646532951169
+72,"market for cement, pozzolana and fly ash 11-35%",Europe without Switzerland,0.7147839610164648
+73,"market for cement, Portland",US,0.9032893541615206
+74,"market for cement, blast furnace slag 6-20%",RoW,0.7420778517701339
+75,"market for cement, blast furnace slag 18-30% and 18-30% other alternative constituents",Europe without Switzerland,0.5286616401647194
+76,"market for cement, alternative constituents 6-20%",Europe without Switzerland,0.8067226435672419
+77,"market for cement, limestone 6-10%",RoW,0.8554952732750324
+78,"market for cement, pozzolana and fly ash 11-35%",CH,0.6033591470019419
+79,"market for cement, pozzolana and fly ash 11-35%",RoW,0.718875855990534
+80,"market for cement, alternative constituents 6-20%",RoW,0.8108933391739127
+81,"market for cement, pozzolana and fly ash 6-14%",RoW,0.7526860540060336
+82,"market for cement, blast furnace slag 6-20%",ZA,0.8861409945782837
+83,"market for cement, unspecified",CH,0.6824511049889654
+84,"market for cement, blast furnace slag 6-34%",BR,0.6631938006985257
+85,"market for cement, pozzolana and fly ash 36-55%",CH,0.42940635147843614
+86,"cement, all types to generic market for cement, unspecified",CH,0.6644843854193141
+87,"market for cement, blast furnace slag 31-50% and 31-50% other alternative constituents",CH,0.3474119948192296
+88,"market for cement, unspecified",US,0.9005719362567963
+89,"market for cement, blast furnace slag 40-70%",RoW,0.5801630702702669
+90,"market for cement, unspecified",RoW,0.780398067196615
+91,"market for cement, alternative constituents 21-35%",RoW,0.6869363836166641
+92,"market for cement, limestone 6-20%",ZA,0.8881954196694398
+93,"market for cement, blast furnace slag 36-65%",RoW,0.5888658105839674
+94,"market for cement, blast furnace slag 36-65%",ZA,0.6722977628390695
+95,"market for cement, blast furnace slag 35-70%",RoW,0.4450834058147611
+96,"market for cement, blast furnace slag 25-70%",RoW,0.6048033424162594
+97,"market for cement, blast furnace slag 81-95%",CH,0.19191962872763885
