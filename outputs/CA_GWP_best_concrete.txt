@@ -1,0 +1,27 @@
+Fraction of score | Absolute score | Amount | Activity
+0001 | 193.9 |     1 | 'concrete production 20MPa' (cubic meter, RoW, None)
+  0.0214 | 4.153 | 858.8 | 'market for gravel, round' (kilogram, CH, None)
+    0.0118 | 2.283 |  17.4 | 'market for transport, freight, lorry, unspecified' (ton kilometer, RE
+  0.839 | 162.6 | 256.6 | 'market for cement, portland fly ash cement 21-35%' (kilogram, RoW, No
+    00.8 |   155 | 256.6 | 'cement production, fly ash 21-35%' (kilogram, RoW, None)
+      0.0296 | 5.739 | 6.118 | 'market group for electricity, medium voltage' (kilowatt hour, RAS, No
+      0.146 | 28.27 | 30.21 | 'market for clinker' (kilogram, Europe without Switzerland, None)
+      0.0303 | 5.868 | 6.363 | 'market for clinker' (kilogram, BR, None)
+      0.129 | 24.98 | 28.23 | 'market for clinker' (kilogram, IN, None)
+      0.43 | 83.42 | 90.59 | 'market for clinker' (kilogram, RoW, None)
+    0.0318 | 6.173 | 44.72 | 'market for transport, freight, lorry, unspecified' (ton kilometer, Ro
+      0.0133 | 2.573 | 18.16 | 'transport, freight, lorry, all sizes, EURO3 to generic market for tra
+      0.0105 | 2.045 | 15.35 | 'transport, freight, lorry, all sizes, EURO4 to generic market for tra
+  0.0167 | 3.237 | 1.752 | 'market for ethylene oxide' (kilogram, RER, None)
+    0.0167 | 3.237 | 1.752 | 'ethylene oxide production' (kilogram, RER, None)
+      0.0108 | 2.101 | 1.445 | 'market for ethylene' (kilogram, RER, None)
+  0.0106 |  2.06 | 2.196 | 'market group for electricity, medium voltage' (kilowatt hour, RAS, No
+  0.0792 | 15.36 |  1142 | 'market for sand' (kilogram, BR, None)
+    0.0116 | 2.241 | 8.713 | 'market for transport, freight, lorry 3.5-7.5 metric ton, EURO3' (ton 
+      0.0116 | 2.241 | 8.713 | 'transport, freight, lorry 3.5-7.5 metric ton, EURO3' (ton kilometer, 
+    0.0271 | 5.252 | 40.44 | 'market for transport, freight, lorry 16-32 metric ton, EURO3' (ton ki
+      0.0271 | 5.252 | 40.44 | 'transport, freight, lorry 16-32 metric ton, EURO3' (ton kilometer, BR
+    0.0195 | 3.789 | 799.6 | 'sand quarry operation, extraction from river bed' (kilogram, BR, None
+      0.019 | 3.683 | 39.91 | 'market for diesel, burned in building machine' (megajoule, GLO, None)
+    0.0124 |  2.41 | 342.7 | 'sand quarry operation, open pit mine' (kilogram, BR, None)
+      0.0122 | 2.365 | 25.63 | 'market for diesel, burned in building machine' (megajoule, GLO, None)

@@ -1,0 +1,12 @@
+Fraction of score | Absolute score | Amount | Activity
+0001 | 317.2 |     1 | 'Charcrete production' (cubic meter, SE, None)
+  0.0126 | 3.996 | 0.0183 | 'Biochar production' (ton, SE, None)
+  0.0166 | 5.272 |   857 | 'market for gravel, crushed' (kilogram, CH, None)
+  0.0131 | 4.144 |   857 | 'market for sand' (kilogram, CH, None)
+  0.0183 | 5.819 |  4.37 | 'market for plasticiser, for concrete, based on sulfonated melamine fo
+    0.0177 | 5.599 |  4.37 | 'plasticiser production, for concrete, based on sulfonated melamine fo
+  0.957 | 303.6 |   347 | 'market for cement, Portland' (kilogram, Europe without Switzerland, N
+    0.0153 | 4.868 | 37.09 | 'market for transport, freight, lorry, unspecified' (ton kilometer, RE
+    0.934 | 296.2 |   347 | 'cement production, Portland' (kilogram, Europe without Switzerland, N
+      0.0161 | 5.098 | 13.05 | 'market group for electricity, medium voltage' (kilowatt hour, Europe 
+      0.914 | 289.8 | 313.2 | 'clinker production' (kilogram, Europe without Switzerland, None)
